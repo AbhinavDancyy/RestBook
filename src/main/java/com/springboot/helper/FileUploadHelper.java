@@ -60,6 +60,10 @@ public class FileUploadHelper {
 					
 		return flag;
 	}
-	
+
+	public void systemFileUpload()
+	{
+		// this function upladss the file in Application
+	}
 
 }

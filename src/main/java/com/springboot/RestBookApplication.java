@@ -35,7 +35,15 @@ public class RestBookApplication {
 		  Iterable<Book> itr  = bookRepository.saveAll(list);
 		  itr.forEach(user -> { System.out.println(user); } );
 		//System.out.println(b.toString());
+
+
 		
 	}
+	public static void method()
+	{
+
+		// this is a dummy method in my Application
+	}
+
 
 }

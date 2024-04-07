@@ -34,5 +34,11 @@ public class BookService  {
 		return b;	
 		
 	}
+	public Book getAlltheBooks()
+	{
+		// This is a dummy function
+		Book book = new Book();
+		return book;
+	}
 
 }
