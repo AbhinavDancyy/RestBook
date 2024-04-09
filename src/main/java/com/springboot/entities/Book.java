@@ -46,6 +46,9 @@ public class Book {
 				+ getClass() + ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
 	}
 	
-	
+	public void dancyGetDetails()
+	{
+		// this is a new commit
+	}
 
 }

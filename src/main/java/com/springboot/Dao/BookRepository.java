@@ -6,6 +6,7 @@ import com.springboot.entities.Book;
 @Repository
 public interface BookRepository extends CrudRepository<Book,Integer> {
     public void getBookDetails();
+    public void dancyGetDetails();
 	
 	
 }
